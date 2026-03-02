@@ -17,11 +17,11 @@ I help businesses grow their online presence with strategic SEO, keyword researc
 
 ## ✅ What I Do Best
 
-✔️SEO Blog Writing (Pillar posts, topical clusters, ongoing blog calendars)
-✔️Web Content Writing (Home, About, Services, FAQs, Product Pages, etc.)
-✔️On-Page SEO Optimization (meta descriptions, internal linking, keyword usage)
-✔️Copyediting & Proofreading
-✔️Content Upload & Formatting in WordPress
+-✔️SEO Blog Writing (Pillar posts, topical clusters, ongoing blog calendars)
+-✔️Web Content Writing (Home, About, Services, FAQs, Product Pages, etc.)
+-✔️On-Page SEO Optimization (meta descriptions, internal linking, keyword usage)
+-✔️Copyediting & Proofreading
+-✔️Content Upload & Formatting in WordPress
   
 
 ## 🚀 Currently Exploring
