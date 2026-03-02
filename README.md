@@ -5,15 +5,15 @@ I help businesses grow their online presence with strategic SEO, keyword researc
 ## 💬 Ask me about
 - On-page & Technical SEO
 
+- Off-page SEO (Backlink)
+
 - Local SEO & GBP Optimization
 
 - Keyword Research & Competitor Analysis
 
-- Content Optimization, Blog Writing & Copywriting
+- SEO Content Writing (Blog, Article & Copywriting)
 
 - Site Audit & SEO Reporting
-
-- SEO Tools (Ahrefs, Semrush, Screaming Frog, SurferSEO)
 
 ## ✅ What I Do Best
 
@@ -26,6 +26,8 @@ I help businesses grow their online presence with strategic SEO, keyword researc
 - ✔️Copyediting & Proofreading
   
 - ✔️Content Upload & Formatting in WordPress
+
+- ✔️SEO Tools (Ahrefs, Semrush, Screaming Frog, SurferSEO)
   
 ## 🚀 Currently Exploring
 
