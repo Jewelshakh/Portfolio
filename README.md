@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jewel</h1>
 <h3 align="center">A SEO Expert & Content Writer from Bangladesh</h3>
+𝗗𝗼 𝘆𝗼𝘂 𝗻𝗲𝗲𝗱 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 𝘁𝗵𝗮𝘁 𝗻𝗼𝘁 𝗼𝗻𝗹𝘆 𝗶𝗻𝗳𝗼𝗿𝗺𝘀 𝗯𝘂𝘁 𝗮𝗹𝘀𝗼 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝘀? 𝗜 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗲 𝗶𝗻 𝗰𝗿𝗮𝗳𝘁𝗶𝗻𝗴 𝗲𝗻𝗴𝗮𝗴𝗶𝗻𝗴 𝗻𝗮𝗿𝗿𝗮𝘁𝗶𝘃𝗲𝘀 𝘁𝗵𝗮𝘁 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝘆𝗼𝘂𝗿 𝗮𝘂𝗱𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗱𝗿𝗶𝘃𝗲 𝗿𝗲𝘀𝘂𝗹𝘁𝘀 and would help Dominate Google & AI Search Results.
 I help businesses grow their online presence with strategic SEO, keyword research, and high-quality content. I craft data-driven SEO strategies and write engaging, search-optimized content that ranks and converts.
 
 ## 💬 Ask me about
