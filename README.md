@@ -28,6 +28,22 @@ I help businesses grow their online presence with strategic SEO, keyword researc
 - ✔️Content Upload & Formatting in WordPress
 
 - ✔️SEO Tools (Ahrefs, Semrush, Screaming Frog, SurferSEO)
+
+## 🔍 SEO Tools
+
+- Moz
+
+- SEMrush
+
+- Ahrefs
+
+- Screaming Frog SEO Spider
+
+- Bing Webmaster Tools
+
+- Google Analytics
+
+- Google Search Console
   
 ## 🚀 Currently Exploring
 
@@ -38,6 +54,7 @@ I help businesses grow their online presence with strategic SEO, keyword researc
 - Building SEO Automation Workflows
 
 ## 📅 Hobbies
+
 - Always update SEO problems at Google Search Central, OpenAI, Gemini
 - Watch anime and TV shows
 - Read some SEO blogs
@@ -45,14 +62,16 @@ I help businesses grow their online presence with strategic SEO, keyword researc
 - etc...
 
 ## 💻 Current projects
+
 - Niche Website [SEO] - Side project
 - E-commerce Website [SEO] - Side project
 - News Website Content Writing [SEO] - Permanent project
 
 ## 📚 Learning
+
 - WordPress with WooCommerce
 - Shopify Store
-- Webflow
+- Copywriting
 - TypeScript
 - Cloudflare workers
 
