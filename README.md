@@ -9,7 +9,7 @@ I help businesses grow their online presence with strategic SEO, keyword researc
 
 - Keyword Research & Competitor Analysis
 
-- Content Strategy, Blog Writing & Copywriting
+- Content Optimization, Blog Writing & Copywriting
 
 - Site Audit & SEO Reporting
 
